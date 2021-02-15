@@ -1,0 +1,5 @@
+Crear un programa que solicite al usuario su nombre, apellido y muestre al final su nombre completo.
+
+El nombre se debe guardar en un espacio de la memoria dinámica con malloc o calloc, se redimensionara el 
+espacio con realloc para despues solicitar el apellido y almacenarlo en el nuevo espacio de memoria sin encimarlo 
+con el nombre ya guardado previamente. Mostrar el contenido de la memoria reservada (nombre completo).
